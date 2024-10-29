@@ -1,5 +1,4 @@
 # Exploração Espacial :alien: 👽
-## Conhecendo o além-atmosfera
 
 Uma página espacial.
 ![Página escura com fundo de estrelas mostrando o título de 'Exploração Espacial' e um texto com campos para preencher sobre a lei de gravitação universal](https://github.com/willsallum/cefet_web/images/cefet-web-space.webp)
@@ -11,7 +10,7 @@ Uma página espacial.
 <!-- {ul:.content} -->
 
 ---
-# Exploração Espacial :alien:
+## Conhecendo o além-atmosfera
 
 - Crie parágrafos que expandem/retraem e uma galeria :notebook:
   - [Baixe os arquivos][space] e veja as instruções
