@@ -200,14 +200,14 @@ O [FAQ](#faq) contém uma pergunta sobre como alterar o conteúdo de um elemento
 
 
 [alternando-uma-classe]: https://willsallum.github.io/cefet_web/classes/js2/#alternando-uma-classe
-[dom]: https://willsallum.github.io/cefet_web/classes/js2/#dando-comportamento-para-a-pagina
+[dom]: https://https://willsallum.github.io/cefet_web/classes/js2/#dando-comportamento-%C3%A0-p%C3%A1gina
 [click-event]: https://developer.mozilla.org/en-US/docs/Web/Events/click
 [clicando-botao]: https://willsallum.github.io/cefet_front_end/classes/js1/#criando-um-evento-de-clique
-[query-selector-all]: https://willsallum.github.io/cefet_web/classes/js2/#selecionando-varios-elementos
-[subindo-no-dom]: https://willsallum.github.io/cefet_web/classes/js2/#dom-como-uma-árvore
-[iteracao]: https://willsallum.github.io/cefet_web/classes/js1/#na-ultima-aula
-[classes]: https://willsallum.github.io/cefet_web/classes/js2/#colocando-removendo-classes
-[argumento-de-click]: https://willsallum.github.io/cefet_web/classes/js2/#argumento-de-evento
-[alterando-o-conteudo]: https://willsallum.github.io/cefet_web/classes/js2/#alterando-o-conteudo
-[tipo-string]: https://willsallum.github.io/cefet_web/classes/js1/#o-tipo-3.-string
+[query-selector-all]: https://https://willsallum.github.io/cefet_web/classes/js2/#selecionando-v%C3%A1rios-elementos-13
+[subindo-no-dom]: https://willsallum.github.io/cefet_web/classes/js2/#dom-como-uma-%C3%A1rvore
+[iteracao]: https://willsallum.github.io/cefet_web/classes/js1/#for-formas-mais-legais
+[classes]: https://willsallum.github.io/cefet_web/classes/js2/#colocandoremovendo-classes
+[argumento-de-click]: https://willsallum.github.io/cefet_web/classes/js2/#associando-mesma-callback-para-v%C3%A1rios-elementos
+[alterando-o-conteudo]: https://willsallum.github.io/cefet_web/classes/js2/#anatomia-de-uma-tag
+[tipo-string]: https://willsallum.github.io/cefet_web/classes/js1/#manipulando-strings
 [const]: https://willsallum.github.io/cefet_web/classes/js1/#const-e-var
