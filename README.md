@@ -198,15 +198,15 @@ O [FAQ](#faq) contém uma pergunta sobre como alterar o conteúdo de um elemento
      usa `if/else`, que é usando o operador de resto da divisão (_i.e._, `%`)
 
 
-[alternando-uma-classe]: https://willsallum.github.io/cefet_web/classes/js2/#alternando-uma-classe
-[dom]: https://https://willsallum.github.io/cefet_web/classes/js2/#dando-comportamento-%C3%A0-p%C3%A1gina
+[alternando-uma-classe]: https://willsallum.github.io/cefet_web/classes/js2#alternando-uma-classe
+[dom]: https://https://willsallum.github.io/cefet_web/classes/js2#dando-comportamento-%C3%A0-p%C3%A1gina
 [click-event]: https://developer.mozilla.org/en-US/docs/Web/Events/click
-[clicando-botao]: https://willsallum.github.io/cefet_front_end/classes/js1/#criando-um-evento-de-clique
-[query-selector-all]: https://https://willsallum.github.io/cefet_web/classes/js2/#selecionando-v%C3%A1rios-elementos-13
-[subindo-no-dom]: https://willsallum.github.io/cefet_web/classes/js2/#dom-como-uma-%C3%A1rvore
-[iteracao]: https://willsallum.github.io/cefet_web/classes/js1/#for-formas-mais-legais
-[classes]: https://willsallum.github.io/cefet_web/classes/js2/#colocandoremovendo-classes
-[argumento-de-click]: https://willsallum.github.io/cefet_web/classes/js2/#associando-mesma-callback-para-v%C3%A1rios-elementos
-[alterando-o-conteudo]: https://willsallum.github.io/cefet_web/classes/js2/#anatomia-de-uma-tag
-[tipo-string]: https://willsallum.github.io/cefet_web/classes/js1/#manipulando-strings
-[const]: https://willsallum.github.io/cefet_web/classes/js1/#const-e-var
+[clicando-botao]: https://willsallum.github.io/cefet_front_end/classes/js1#criando-um-evento-de-clique
+[query-selector-all]: https://https://willsallum.github.io/cefet_web/classes/js2#selecionando-v%C3%A1rios-elementos-13
+[subindo-no-dom]: https://willsallum.github.io/cefet_web/classes/js2#dom-como-uma-%C3%A1rvore
+[iteracao]: https://willsallum.github.io/cefet_web/classes/js1#for-formas-mais-legais
+[classes]: https://willsallum.github.io/cefet_web/classes/js2#colocandoremovendo-classes
+[argumento-de-click]: https://willsallum.github.io/cefet_web/classes/js2#associando-mesma-callback-para-v%C3%A1rios-elementos
+[alterando-o-conteudo]: https://willsallum.github.io/cefet_web/classes/js2#anatomia-de-uma-tag
+[tipo-string]: https://willsallum.github.io/cefet_web/classes/js1#manipulando-strings
+[const]: https://willsallum.github.io/cefet_web/classes/js1#const-e-var
