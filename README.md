@@ -199,10 +199,10 @@ O [FAQ](#faq) contém uma pergunta sobre como alterar o conteúdo de um elemento
 
 
 [alternando-uma-classe]: https://willsallum.github.io/cefet_web/classes/js2/#alternando-uma-classe
-[dom]: https://https://willsallum.github.io/cefet_web/classes/js2/#dando-comportamento-a-pagina
+[dom]: https://willsallum.github.io/cefet_web/classes/js2/#dando-comportamento-a-pagina
 [click-event]: https://developer.mozilla.org/en-US/docs/Web/Events/click
 [clicando-botao]: https://willsallum.github.io/cefet_web/classes/js2/#exemplo-clique-em-um-botão
-[query-selector-all]: https://https://willsallum.github.io/cefet_web/classes/js2/#selecionando-um-elemento
+[query-selector-all]: https://willsallum.github.io/cefet_web/classes/js2/#selecionando-um-elemento
 [subindo-no-dom]: https://willsallum.github.io/cefet_web/classes/js2/#subindo-na-árvore-do-dom-12-1
 [iteracao]: https://willsallum.github.io/cefet_web/classes/js1/#for-formas-mais-legais
 [classes]: https://willsallum.github.io/cefet_web/classes/js2/#colocandoremovendo-classes
