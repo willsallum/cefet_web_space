@@ -198,7 +198,6 @@ O [FAQ](#faq) contém uma pergunta sobre como alterar o conteúdo de um elemento
      usa `if/else`, que é usando o operador de resto da divisão (_i.e._, `%`)
 
 
-
 [alternando-uma-classe]: https://willsallum.github.io/cefet_web/classes/js2/#alternando-uma-classe
 [dom]: https://https://willsallum.github.io/cefet_web/classes/js2/#dando-comportamento-%C3%A0-p%C3%A1gina
 [click-event]: https://developer.mozilla.org/en-US/docs/Web/Events/click
