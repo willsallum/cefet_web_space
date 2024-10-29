@@ -204,7 +204,7 @@ O [FAQ](#faq) contém uma pergunta sobre como alterar o conteúdo de um elemento
 [click-event]: https://developer.mozilla.org/en-US/docs/Web/Events/click
 [clicando-botao]: https://willsallum.github.io/cefet_web/classes/js1/Criando-um-evento-de-clique
 [query-selector-all]: https://willsallum.github.io/cefet_web/classes/js2/#selecionando-varios-elementos
-[subindo-no-dom]: https://willsallum.github.io/cefet_web/classes/js2/#subindo-na-arvore-do-dom
+[subindo-no-dom]: https://willsallum.github.io/cefet_web/classes/js2/#dom-como-uma-árvore
 [iteracao]: https://willsallum.github.io/cefet_web/classes/js1/#na-ultima-aula
 [classes]: https://willsallum.github.io/cefet_web/classes/js2/#colocando-removendo-classes
 [argumento-de-click]: https://willsallum.github.io/cefet_web/classes/js2/#argumento-de-evento
