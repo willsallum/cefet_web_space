@@ -199,15 +199,15 @@ O [FAQ](#faq) contém uma pergunta sobre como alterar o conteúdo de um elemento
 
 
 
-[alternando-uma-classe]: https://fegemo.github.io/cefet-web/classes/js2/#alternando-uma-classe
-[dom]: https://fegemo.github.io/cefet-web/classes/js2/#o-dom
+[alternando-uma-classe]: https://willsallum.github.io/cefet_web/classes/js2/#alternando-uma-classe
+[dom]: https://willsallum.github.io/cefet_web/classes/js2/#o-dom
 [click-event]: https://developer.mozilla.org/en-US/docs/Web/Events/click
-[clicando-botao]: https://fegemo.github.io/cefet-web/classes/js2/#evento-clique
-[query-selector-all]: https://fegemo.github.io/cefet-web/classes/js2/#selecionando-varios-elementos
-[subindo-no-dom]: https://fegemo.github.io/cefet-web/classes/js2/#subindo-na-arvore
-[iteracao]: https://fegemo.github.io/cefet-web/classes/js1/#for-formas-mais-legais
-[classes]: https://fegemo.github.io/cefet-web/classes/js2/#colocando-removendo-classes
-[argumento-de-click]: https://fegemo.github.io/cefet-web/classes/js2/#argumento-de-click
-[alterando-o-conteudo]: https://fegemo.github.io/cefet-web/classes/js2/#alterando-o-conteudo
-[tipo-string]: https://fegemo.github.io/cefet-web/classes/js1/#o-tipo-string
-[const]: https://fegemo.github.io/cefet-web/classes/js1/#const-e-var
+[clicando-botao]: https://willsallum.github.io/cefet_web/classes/js2/#evento-clique
+[query-selector-all]: https://willsallum.github.io/cefet_web/classes/js2/#selecionando-varios-elementos
+[subindo-no-dom]: https://willsallum.github.io/cefet_webb/classes/js2/#subindo-na-arvore
+[iteracao]: https://willsallum.github.io/cefet_web/classes/js1/#for-formas-mais-legais
+[classes]: https://willsallum.github.io/cefet_web/classes/js2/#colocando-removendo-classes
+[argumento-de-click]: https://willsallum.github.io/cefet_web/classes/js2/#argumento-de-click
+[alterando-o-conteudo]: https://willsallum.github.io/cefet_web/classes/js2/#alterando-o-conteudo
+[tipo-string]: https://willsallum.github.io/cefet_web/classes/js1/#o-tipo-string
+[const]: https://willsallum.github.io/cefet_web/classes/js1/#const-e-var
