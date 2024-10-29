@@ -1,5 +1,28 @@
-# Exploração Espacial 👽
+# Exploração Espacial :alien: 👽
+## Conhecendo o além-atmosfera
 
+- Atividade de hoje
+- Que elemento foi clicado?
+- Subindo na árvore do DOM
+- Alternando uma classe
+<!-- {ul:.content} -->
+
+---
+# Exploração Espacial :alien:
+
+- Crie parágrafos que expandem/retraem e uma galeria :notebook:
+  - [Baixe os arquivos][space] e veja as instruções
+    no arquivo `README.md`
+- Há 2 atividades:
+  1. Criar um código em JavaScript para **fazer os botões "+"
+     expadirem ou retrairem o texto dos parágrafos**
+     - Fazer no arquivo `atividade1.js`
+  2. Criar uma **galeria** mostrando **fotos e imagens** da sonda Philae
+     - Fazer no arquivo `atividade2.js`
+
+[space]: https://github.com/willsallum/cefet_front_end_space/archive/master.zip
+
+---
 ## Atividade
 
 Esta atividade é composta de 3 exercícios.
@@ -27,7 +50,6 @@ let valor = algumEl.nomeDoAtributo
 // definindo
 algumEl.nomeDoAtributo = 'novo valor'
 ```
-
 
 ### Exercício 2: galeria de imagens
 
