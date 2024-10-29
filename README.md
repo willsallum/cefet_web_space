@@ -22,7 +22,7 @@ Uma página espacial.
   2. Criar uma **galeria** mostrando **fotos e imagens** da sonda Philae
      - Fazer no arquivo `atividade2.js`
 
-[space]: https://github.com/willsallum/cefet_front_end_space/archive/master.zip
+[space]: https://github.com/willsallum/cefet_web_space/archive/master.zip
 
 ---
 ## Atividade
