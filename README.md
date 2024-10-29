@@ -1,7 +1,7 @@
 # Exploração Espacial 👽
 
 Uma página espacial.
-![Página escura com fundo de estrelas mostrando o título de 'Exploração Espacial' e um texto com campos para preencher sobre a lei de gravitação universal](https://fegemo.github.io/cefet-web/images/cefet-web-space.webp)
+![Página escura com fundo de estrelas mostrando o título de 'Exploração Espacial' e um texto com campos para preencher sobre a lei de gravitação universal](https://github.com/willsallum/cefet_web/images/cefet-web-space.webp)
 
 ## Atividade
 
