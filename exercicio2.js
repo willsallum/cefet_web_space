@@ -1,7 +1,7 @@
 // Faça o exercício da GALERIA DE IMAGENS aqui
 // Este arquivo AINDA NÃO ESTÁ INCLUÍDO no arquivo HTML
 
-const servidorDasImagens = 'https://fegemo.github.io/cefet-web/images/osiris';
+const servidorDasImagens = 'https://willsallum.github.io/cefet_web/images/osiris';
 const imagens = [
     {
       arquivo: '01-modelo-artistico-da-sonda.webp',
