@@ -67,7 +67,7 @@ foram dadas como um **vetor de objetos** da seguinte forma:
 ```js
 const imagens = [
   {
-    nome: 'nome-da-imagem.webp',
+    nome: 'nome-da-imagem.jpg',
     descricao: 'O texto alternativo que a descreve'
   },
   ...
