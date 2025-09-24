@@ -32,13 +32,6 @@ const imagens = [
       descricao: 'Animação de uma forma tridimensional um pouco ovalada ' +
         'representada usando diversas cores e girando em torno do eixo vertical ' +
         'representando a superfície do asteróide'
-    },
-    {
-      arquivo: '06-local-de-pouso.webp',
-      descricao: 'Foto do local de pouso da sonda Osiris-Rex no ' +
-        'asteróide Bennu mostrando uma pequena clareira em um ' +
-        'terreno bem acidentado, com muitas pedras. No centro há ' +
-        'um desenho no formato da sonda'
     }
   ];
 
